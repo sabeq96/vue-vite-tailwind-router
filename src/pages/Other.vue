@@ -1,0 +1,3 @@
+<template>
+    Other Page
+</template>
